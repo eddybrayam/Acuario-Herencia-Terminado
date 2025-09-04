@@ -43,6 +43,6 @@ class TanqueTorre (override var alto: Int, var diametro: Int): Acuario(alto = al
         }
 
     override var agua = volumen * 0.8
-    override val forma = "cilindro"
+    override val forma = "cilindro hola"
 }
 
